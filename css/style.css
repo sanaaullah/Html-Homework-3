@@ -1,0 +1,50 @@
+#csspower{
+	color: green;
+	font-size: 25px;
+}
+
+h4 p{
+	color: purple;
+	font-size: 25px;
+}
+#selectorpower{
+	color: green;
+}
+.selectorpower{
+	color: yellow;
+}
+/*===FORM SECTION===*/
+form{
+	width: 50%;
+	margin: 0 auto;
+	border:3px solid black;
+	padding: 20px;
+}
+.fname, .lname, .email, .mobileno, .password, .website, .houseno{
+	width: 80%;
+	padding: 7px;
+}
+.bday, .clstime, .month, .week, .admissiontime{
+	width: 50%;
+	padding: 8px;
+}
+/*==TABLE SECTION==*/
+
+table{
+	border: 3px solid #000;
+	width: 70%;
+	margin: 0 auto;
+	border-collapse: collapse;
+
+}
+th, td{
+	border:1px solid black;
+	text-align:center;
+}
+/*==50 Element Practice==*/
+aside{
+	width: 30%;
+	float: right;
+	padding-left: 20px;
+	margin-left:15px; 
+}
